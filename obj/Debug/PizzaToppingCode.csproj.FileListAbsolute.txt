@@ -1,0 +1,8 @@
+E:\_Downloads\_Prac\PizzaToppingsCode\PizzaToppingCode\bin\Debug\PizzaToppingCode.exe.config
+E:\_Downloads\_Prac\PizzaToppingsCode\PizzaToppingCode\bin\Debug\PizzaToppingCode.exe
+E:\_Downloads\_Prac\PizzaToppingsCode\PizzaToppingCode\bin\Debug\PizzaToppingCode.pdb
+E:\_Downloads\_Prac\PizzaToppingsCode\PizzaToppingCode\obj\Debug\PizzaToppingCode.csprojResolveAssemblyReference.cache
+E:\_Downloads\_Prac\PizzaToppingsCode\PizzaToppingCode\obj\Debug\PizzaToppingCode.exe
+E:\_Downloads\_Prac\PizzaToppingsCode\PizzaToppingCode\obj\Debug\PizzaToppingCode.pdb
+E:\_Downloads\_Prac\PizzaToppingsCode\PizzaToppingCode\bin\Debug\Newtonsoft.Json.dll
+E:\_Downloads\_Prac\PizzaToppingsCode\PizzaToppingCode\bin\Debug\Newtonsoft.Json.xml
