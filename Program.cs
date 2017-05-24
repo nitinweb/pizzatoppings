@@ -11,9 +11,11 @@ namespace PizzaToppingCode
         static void Main(string[] args)
         {
             var query = DataUtils.GetTop20Toppings();
+            var rank = 0;
             foreach (var result in query)
             {
-                Console.WriteLine("Topping Name: {0} - Count: {1}", result.Name, result.Count);
+                rank++;
+                Console.WriteLine("Rank {0}.Topping Name: {1} - Count: {2}",rank, result.Name, result.Count);
             }
         }
     }
